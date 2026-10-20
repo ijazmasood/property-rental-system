@@ -1,0 +1,90 @@
+[
+    {
+        "id":  "u-admin",
+        "name":  "Helen Foster",
+        "email":  "helen.foster@landlorddesk.example",
+        "role":  "superadmin",
+        "phone":  "07700 900001",
+        "status":  "active"
+    },
+    {
+        "id":  "u-manager",
+        "name":  "Martin Cole",
+        "email":  "martin.cole@landlorddesk.example",
+        "role":  "admin",
+        "phone":  "07700 900002",
+        "status":  "active"
+    },
+    {
+        "id":  "u-accountant",
+        "name":  "Nina Patel",
+        "email":  "nina.patel@landlorddesk.example",
+        "role":  "accountant",
+        "phone":  "07700 900003",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t1",
+        "name":  "Aisha Khan",
+        "email":  "aisha.khan@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900101",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t2",
+        "name":  "Oliver Bennett",
+        "email":  "oliver.bennett@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900102",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t3",
+        "name":  "Priya Shah",
+        "email":  "priya.shah@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900103",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t4",
+        "name":  "Daniel Hughes",
+        "email":  "daniel.hughes@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900104",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t5",
+        "name":  "Amelia Clarke",
+        "email":  "amelia.clarke@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900105",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t6",
+        "name":  "Lewis Morgan",
+        "email":  "lewis.morgan@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900106",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t7",
+        "name":  "Sophie Campbell",
+        "email":  "sophie.campbell@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900107",
+        "status":  "active"
+    },
+    {
+        "id":  "user-t8",
+        "name":  "Noah Williams",
+        "email":  "noah.williams@example.co.uk",
+        "role":  "tenant",
+        "phone":  "07700 900108",
+        "status":  "active"
+    }
+]

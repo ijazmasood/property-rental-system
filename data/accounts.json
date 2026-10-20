@@ -1,0 +1,56 @@
+[
+    {
+        "id":  "acc-rent",
+        "code":  "4000",
+        "name":  "Rent Income",
+        "type":  "Income"
+    },
+    {
+        "id":  "acc-other-income",
+        "code":  "4100",
+        "name":  "Other Income",
+        "type":  "Income"
+    },
+    {
+        "id":  "acc-utilities",
+        "code":  "5000",
+        "name":  "Utilities",
+        "type":  "Expense"
+    },
+    {
+        "id":  "acc-repairs",
+        "code":  "5100",
+        "name":  "Repairs",
+        "type":  "Expense"
+    },
+    {
+        "id":  "acc-insurance",
+        "code":  "5200",
+        "name":  "Insurance",
+        "type":  "Expense"
+    },
+    {
+        "id":  "acc-fees",
+        "code":  "5300",
+        "name":  "Fees",
+        "type":  "Expense"
+    },
+    {
+        "id":  "acc-council-tax",
+        "code":  "5400",
+        "name":  "Council Tax",
+        "type":  "Expense"
+    },
+    {
+        "id":  "acc-deposits",
+        "code":  "2000",
+        "name":  "Tenant Deposits Held",
+        "type":  "Liability"
+    },
+    {
+        "id":  "acc-bank",
+        "code":  "1000",
+        "name":  "Bank",
+        "type":  "Asset"
+    }
+]

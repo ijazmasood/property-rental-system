@@ -1,0 +1,74 @@
+[
+    {
+        "id":  "contract-001",
+        "tenantId":  "t1",
+        "propertyId":  "p1",
+        "version":  1,
+        "title":  "Residential Tenancy Agreement - Aisha Khan",
+        "startDate":  "2025-04-01",
+        "endDate":  "2027-03-31",
+        "status":  "sent",
+        "sentOn":  "2026-10-10",
+        "approvedOn":  null
+    },
+    {
+        "id":  "contract-002",
+        "tenantId":  "t2",
+        "propertyId":  "p2",
+        "version":  1,
+        "title":  "Residential Tenancy Agreement - Oliver Bennett",
+        "startDate":  "2025-04-09",
+        "endDate":  "2027-03-31",
+        "status":  "approved",
+        "sentOn":  "2026-10-10",
+        "approvedOn":  "2026-10-12"
+    },
+    {
+        "id":  "contract-003",
+        "tenantId":  "t3",
+        "propertyId":  "p3",
+        "version":  1,
+        "title":  "Residential Tenancy Agreement - Priya Shah",
+        "startDate":  "2025-04-17",
+        "endDate":  "2027-03-31",
+        "status":  "approved",
+        "sentOn":  "2026-10-10",
+        "approvedOn":  "2026-10-12"
+    },
+    {
+        "id":  "contract-004",
+        "tenantId":  "t4",
+        "propertyId":  "p4",
+        "version":  1,
+        "title":  "Residential Tenancy Agreement - Daniel Hughes",
+        "startDate":  "2025-04-25",
+        "endDate":  "2027-03-31",
+        "status":  "draft",
+        "sentOn":  null,
+        "approvedOn":  null
+    },
+    {
+        "id":  "contract-005",
+        "tenantId":  "t5",
+        "propertyId":  "p5",
+        "version":  2,
+        "title":  "Residential Tenancy Agreement - Amelia Clarke",
+        "startDate":  "2025-05-03",
+        "endDate":  "2027-03-31",
+        "status":  "approved",
+        "sentOn":  "2026-10-10",
+        "approvedOn":  "2026-10-12"
+    },
+    {
+        "id":  "contract-006",
+        "tenantId":  "t6",
+        "propertyId":  "p6",
+        "version":  1,
+        "title":  "Residential Tenancy Agreement - Lewis Morgan",
+        "startDate":  "2025-05-11",
+        "endDate":  "2027-03-31",
+        "status":  "sent",
+        "sentOn":  "2026-10-10",
+        "approvedOn":  null
+    }
+]

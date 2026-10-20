@@ -1,0 +1,18 @@
+{
+    "demoToday":  "2026-10-21",
+    "currency":  "GBP",
+    "reminderDays":  [
+                         60,
+                         30,
+                         7
+                     ],
+    "rentReminderDaysBefore":  3,
+    "features":  {
+                     "paymentGateway":  false,
+                     "aiChat":  false,
+                     "bankFeed":  false,
+                     "esign":  false,
+                     "push":  false,
+                     "email":  false
+                 }
+}

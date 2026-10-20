@@ -1,0 +1,98 @@
+[
+    {
+        "id":  "t1",
+        "userId":  "user-t1",
+        "propertyId":  "p1",
+        "name":  "Aisha Khan",
+        "email":  "aisha.khan@example.co.uk",
+        "phone":  "07700 900101",
+        "tenancyStart":  "2025-04-01",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  25,
+        "status":  "active"
+    },
+    {
+        "id":  "t2",
+        "userId":  "user-t2",
+        "propertyId":  "p2",
+        "name":  "Oliver Bennett",
+        "email":  "oliver.bennett@example.co.uk",
+        "phone":  "07700 900102",
+        "tenancyStart":  "2025-04-09",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  1,
+        "status":  "active"
+    },
+    {
+        "id":  "t3",
+        "userId":  "user-t3",
+        "propertyId":  "p3",
+        "name":  "Priya Shah",
+        "email":  "priya.shah@example.co.uk",
+        "phone":  "07700 900103",
+        "tenancyStart":  "2025-04-17",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  2,
+        "status":  "active"
+    },
+    {
+        "id":  "t4",
+        "userId":  "user-t4",
+        "propertyId":  "p4",
+        "name":  "Daniel Hughes",
+        "email":  "daniel.hughes@example.co.uk",
+        "phone":  "07700 900104",
+        "tenancyStart":  "2025-04-25",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  3,
+        "status":  "active"
+    },
+    {
+        "id":  "t5",
+        "userId":  "user-t5",
+        "propertyId":  "p5",
+        "name":  "Amelia Clarke",
+        "email":  "amelia.clarke@example.co.uk",
+        "phone":  "07700 900105",
+        "tenancyStart":  "2025-05-03",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  5,
+        "status":  "active"
+    },
+    {
+        "id":  "t6",
+        "userId":  "user-t6",
+        "propertyId":  "p6",
+        "name":  "Lewis Morgan",
+        "email":  "lewis.morgan@example.co.uk",
+        "phone":  "07700 900106",
+        "tenancyStart":  "2025-05-11",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  18,
+        "status":  "active"
+    },
+    {
+        "id":  "t7",
+        "userId":  "user-t7",
+        "propertyId":  "p7",
+        "name":  "Sophie Campbell",
+        "email":  "sophie.campbell@example.co.uk",
+        "phone":  "07700 900107",
+        "tenancyStart":  "2025-05-19",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  27,
+        "status":  "active"
+    },
+    {
+        "id":  "t8",
+        "userId":  "user-t8",
+        "propertyId":  "p8",
+        "name":  "Noah Williams",
+        "email":  "noah.williams@example.co.uk",
+        "phone":  "07700 900108",
+        "tenancyStart":  "2025-05-27",
+        "tenancyEnd":  "2027-03-31",
+        "rentDueDay":  28,
+        "status":  "active"
+    }
+]

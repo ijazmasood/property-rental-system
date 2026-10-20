@@ -1,0 +1,102 @@
+[
+    {
+        "id":  "notification-001",
+        "userId":  "u-admin",
+        "audience":  "admin",
+        "title":  "Rent",
+        "body":  "Five October rent payments need attention.",
+        "type":  "rent",
+        "createdOn":  "2026-10-19",
+        "read":  false
+    },
+    {
+        "id":  "notification-002",
+        "userId":  "u-manager",
+        "audience":  "admin",
+        "title":  "Document",
+        "body":  "A gas safety certificate is expiring soon.",
+        "type":  "document",
+        "createdOn":  "2026-10-20",
+        "read":  false
+    },
+    {
+        "id":  "notification-003",
+        "userId":  "u-admin",
+        "audience":  "admin",
+        "title":  "Issue",
+        "body":  "A high-priority repair is open at Oakfield Mews.",
+        "type":  "issue",
+        "createdOn":  "2026-10-18",
+        "read":  true
+    },
+    {
+        "id":  "notification-004",
+        "userId":  "user-t1",
+        "audience":  "tenant",
+        "title":  "Rent",
+        "body":  "Your next rent payment is due on 25/10/2026.",
+        "type":  "rent",
+        "createdOn":  "2026-10-19",
+        "read":  false
+    },
+    {
+        "id":  "notification-005",
+        "userId":  "user-t1",
+        "audience":  "tenant",
+        "title":  "Issue",
+        "body":  "Your kitchen tap report has been received.",
+        "type":  "issue",
+        "createdOn":  "2026-10-20",
+        "read":  false
+    },
+    {
+        "id":  "notification-006",
+        "userId":  "user-t1",
+        "audience":  "tenant",
+        "title":  "Contract",
+        "body":  "A tenancy agreement is ready for your review.",
+        "type":  "contract",
+        "createdOn":  "2026-10-18",
+        "read":  false
+    },
+    {
+        "id":  "notification-007",
+        "userId":  "user-t2",
+        "audience":  "tenant",
+        "title":  "Issue",
+        "body":  "Your hallway lighting repair is in progress.",
+        "type":  "issue",
+        "createdOn":  "2026-10-19",
+        "read":  true
+    },
+    {
+        "id":  "notification-008",
+        "userId":  "user-t3",
+        "audience":  "tenant",
+        "title":  "Issue",
+        "body":  "Please confirm a convenient time for the boiler visit.",
+        "type":  "issue",
+        "createdOn":  "2026-10-20",
+        "read":  false
+    },
+    {
+        "id":  "notification-009",
+        "userId":  "u-accountant",
+        "audience":  "admin",
+        "title":  "System",
+        "body":  "October bank statement lines are ready to review.",
+        "type":  "system",
+        "createdOn":  "2026-10-18",
+        "read":  false
+    },
+    {
+        "id":  "notification-010",
+        "userId":  "u-manager",
+        "audience":  "admin",
+        "title":  "System",
+        "body":  "Two tenant requests are awaiting review.",
+        "type":  "system",
+        "createdOn":  "2026-10-19",
+        "read":  false
+    }
+]

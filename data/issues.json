@@ -1,0 +1,194 @@
+[
+    {
+        "id":  "issue-001",
+        "propertyId":  "p1",
+        "tenantId":  "t1",
+        "title":  "Kitchen tap dripping",
+        "description":  "Water is collecting under the kitchen sink.",
+        "category":  "Plumbing",
+        "priority":  "medium",
+        "status":  "open",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-manager",
+        "createdOn":  "2026-10-02",
+        "comments":  [
+                         {
+                             "by":  "u-manager",
+                             "text":  "Thanks, we are reviewing this and will update you shortly.",
+                             "date":  "2026-10-03"
+                         }
+                     ]
+    },
+    {
+        "id":  "issue-002",
+        "propertyId":  "p2",
+        "tenantId":  "t2",
+        "title":  "Hallway light not working",
+        "description":  "The shared hallway light has stopped working.",
+        "category":  "Electrical",
+        "priority":  "low",
+        "status":  "in progress",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-manager",
+        "createdOn":  "2026-10-03",
+        "comments":  [
+
+                     ]
+    },
+    {
+        "id":  "issue-003",
+        "propertyId":  "p3",
+        "tenantId":  "t3",
+        "title":  "Boiler pressure dropping",
+        "description":  "Heating cuts out and the boiler pressure needs topping up.",
+        "category":  "Heating",
+        "priority":  "high",
+        "status":  "awaiting tenant",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-admin",
+        "createdOn":  "2026-10-04",
+        "comments":  [
+                         {
+                             "by":  "u-manager",
+                             "text":  "Thanks, we are reviewing this and will update you shortly.",
+                             "date":  "2026-10-05"
+                         }
+                     ]
+    },
+    {
+        "id":  "issue-004",
+        "propertyId":  "p4",
+        "tenantId":  "t4",
+        "title":  "Loose bathroom tile",
+        "description":  "One tile beside the bath has become loose.",
+        "category":  "General",
+        "priority":  "low",
+        "status":  "resolved",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-manager",
+        "createdOn":  "2026-10-05",
+        "comments":  [
+
+                     ]
+    },
+    {
+        "id":  "issue-005",
+        "propertyId":  "p5",
+        "tenantId":  "t5",
+        "title":  "Front door lock stiff",
+        "description":  "The key is difficult to turn in the front door lock.",
+        "category":  "Security",
+        "priority":  "high",
+        "status":  "open",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-admin",
+        "createdOn":  "2026-10-06",
+        "comments":  [
+
+                     ]
+    },
+    {
+        "id":  "issue-006",
+        "propertyId":  "p6",
+        "tenantId":  "t6",
+        "title":  "Window seal damaged",
+        "description":  "Cold air is coming through the lounge window seal.",
+        "category":  "Windows",
+        "priority":  "medium",
+        "status":  "in progress",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-manager",
+        "createdOn":  "2026-10-07",
+        "comments":  [
+
+                     ]
+    },
+    {
+        "id":  "issue-007",
+        "propertyId":  "p7",
+        "tenantId":  "t7",
+        "title":  "Smoke alarm beeping",
+        "description":  "The landing smoke alarm is beeping intermittently.",
+        "category":  "Safety",
+        "priority":  "urgent",
+        "status":  "open",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-admin",
+        "createdOn":  "2026-10-08",
+        "comments":  [
+                         {
+                             "by":  "u-manager",
+                             "text":  "Thanks, we are reviewing this and will update you shortly.",
+                             "date":  "2026-10-09"
+                         }
+                     ]
+    },
+    {
+        "id":  "issue-008",
+        "propertyId":  "p8",
+        "tenantId":  "t8",
+        "title":  "Garden gate latch broken",
+        "description":  "The rear garden gate will not stay closed.",
+        "category":  "General",
+        "priority":  "medium",
+        "status":  "closed",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-manager",
+        "createdOn":  "2026-10-09",
+        "comments":  [
+
+                     ]
+    },
+    {
+        "id":  "issue-009",
+        "propertyId":  "p2",
+        "tenantId":  "t2",
+        "title":  "Kitchen extractor noisy",
+        "description":  "Extractor fan makes a loud rattling sound.",
+        "category":  "Appliance",
+        "priority":  "low",
+        "status":  "resolved",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-manager",
+        "createdOn":  "2026-10-10",
+        "comments":  [
+
+                     ]
+    },
+    {
+        "id":  "issue-010",
+        "propertyId":  "p6",
+        "tenantId":  "t6",
+        "title":  "Communal bin collection missed",
+        "description":  "Bins have not been collected this week.",
+        "category":  "Communal area",
+        "priority":  "medium",
+        "status":  "awaiting tenant",
+        "photos":  [
+
+                   ],
+        "assignedTo":  "u-admin",
+        "createdOn":  "2026-10-11",
+        "comments":  [
+
+                     ]
+    }
+]

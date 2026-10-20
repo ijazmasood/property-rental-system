@@ -1,0 +1,202 @@
+[
+    {
+        "id":  "bank-001",
+        "date":  "2026-10-01",
+        "description":  "RENT AISHA KHAN",
+        "amount":  1450,
+        "direction":  "in",
+        "suggestedTenantId":  "t1",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-002",
+        "date":  "2026-10-02",
+        "description":  "RENT OLIVER BENNETT",
+        "amount":  1125,
+        "direction":  "in",
+        "suggestedTenantId":  "t2",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-003",
+        "date":  "2026-10-03",
+        "description":  "RENT PRIYA SHAH",
+        "amount":  1325,
+        "direction":  "in",
+        "suggestedTenantId":  "t3",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-004",
+        "date":  "2026-10-04",
+        "description":  "RENT DANIEL HUGHES",
+        "amount":  1275,
+        "direction":  "in",
+        "suggestedTenantId":  "t4",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-005",
+        "date":  "2026-10-05",
+        "description":  "RENT AMELIA CLARKE",
+        "amount":  1180,
+        "direction":  "in",
+        "suggestedTenantId":  "t5",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-006",
+        "date":  "2026-10-06",
+        "description":  "RENT LEWIS MORGAN",
+        "amount":  1595,
+        "direction":  "in",
+        "suggestedTenantId":  "t6",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-007",
+        "date":  "2026-10-07",
+        "description":  "RENT SOPHIE CAMPBELL",
+        "amount":  995,
+        "direction":  "in",
+        "suggestedTenantId":  "t7",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-008",
+        "date":  "2026-10-08",
+        "description":  "RENT NOAH WILLIAMS",
+        "amount":  1050,
+        "direction":  "in",
+        "suggestedTenantId":  "t8",
+        "suggestedConfidence":  1,
+        "status":  "matched"
+    },
+    {
+        "id":  "bank-009",
+        "date":  "2026-10-09",
+        "description":  "TRANSFER RENT AISHA",
+        "amount":  1425,
+        "direction":  "in",
+        "suggestedTenantId":  "t1",
+        "suggestedConfidence":  0.66,
+        "status":  "needs review"
+    },
+    {
+        "id":  "bank-010",
+        "date":  "2026-10-10",
+        "description":  "TRANSFER RENT OLIVER",
+        "amount":  1100,
+        "direction":  "in",
+        "suggestedTenantId":  "t2",
+        "suggestedConfidence":  0.78,
+        "status":  "needs review"
+    },
+    {
+        "id":  "bank-011",
+        "date":  "2026-10-11",
+        "description":  "TRANSFER RENT PRIYA",
+        "amount":  1300,
+        "direction":  "in",
+        "suggestedTenantId":  "t3",
+        "suggestedConfidence":  0.72,
+        "status":  "needs review"
+    },
+    {
+        "id":  "bank-012",
+        "date":  "2026-10-12",
+        "description":  "TRANSFER RENT DANIEL",
+        "amount":  1250,
+        "direction":  "in",
+        "suggestedTenantId":  "t4",
+        "suggestedConfidence":  0.66,
+        "status":  "needs review"
+    },
+    {
+        "id":  "bank-013",
+        "date":  "2026-10-13",
+        "description":  "TRANSFER RENT AMELIA",
+        "amount":  1155,
+        "direction":  "in",
+        "suggestedTenantId":  "t5",
+        "suggestedConfidence":  0.78,
+        "status":  "needs review"
+    },
+    {
+        "id":  "bank-014",
+        "date":  "2026-10-14",
+        "description":  "TRANSFER RENT LEWIS",
+        "amount":  1570,
+        "direction":  "in",
+        "suggestedTenantId":  "t6",
+        "suggestedConfidence":  0.72,
+        "status":  "needs review"
+    },
+    {
+        "id":  "bank-015",
+        "date":  "2026-10-15",
+        "description":  "PLUMBER INVOICE",
+        "amount":  145,
+        "direction":  "out",
+        "suggestedTenantId":  null,
+        "suggestedConfidence":  null,
+        "status":  "unmatched"
+    },
+    {
+        "id":  "bank-016",
+        "date":  "2026-10-16",
+        "description":  "INSURANCE PREMIUM",
+        "amount":  112.5,
+        "direction":  "out",
+        "suggestedTenantId":  null,
+        "suggestedConfidence":  null,
+        "status":  "unmatched"
+    },
+    {
+        "id":  "bank-017",
+        "date":  "2026-10-17",
+        "description":  "WATER SERVICES",
+        "amount":  39.6,
+        "direction":  "out",
+        "suggestedTenantId":  null,
+        "suggestedConfidence":  null,
+        "status":  "unmatched"
+    },
+    {
+        "id":  "bank-018",
+        "date":  "2026-10-18",
+        "description":  "CASH DEPOSIT",
+        "amount":  500,
+        "direction":  "in",
+        "suggestedTenantId":  null,
+        "suggestedConfidence":  null,
+        "status":  "unmatched"
+    },
+    {
+        "id":  "bank-019",
+        "date":  "2026-10-19",
+        "description":  "UNKNOWN TRANSFER",
+        "amount":  950,
+        "direction":  "in",
+        "suggestedTenantId":  null,
+        "suggestedConfidence":  null,
+        "status":  "unmatched"
+    },
+    {
+        "id":  "bank-020",
+        "date":  "2026-10-20",
+        "description":  "REFERENCE NOT PROVIDED",
+        "amount":  125,
+        "direction":  "in",
+        "suggestedTenantId":  null,
+        "suggestedConfidence":  null,
+        "status":  "unmatched"
+    }
+]

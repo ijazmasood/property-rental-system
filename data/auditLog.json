@@ -1,0 +1,34 @@
+[
+    {
+        "id":  "audit-001",
+        "date":  "2026-10-20T09:14:00",
+        "userName":  "Helen Foster",
+        "action":  "Created",
+        "entity":  "Tenant request",
+        "detail":  "Charlotte Evans submitted an enquiry for Riverside View."
+    },
+    {
+        "id":  "audit-002",
+        "date":  "2026-10-20T10:32:00",
+        "userName":  "Martin Cole",
+        "action":  "Updated",
+        "entity":  "Issue",
+        "detail":  "Hallway light repair at Riverside View moved to in progress."
+    },
+    {
+        "id":  "audit-003",
+        "date":  "2026-10-19T15:06:00",
+        "userName":  "Nina Patel",
+        "action":  "Matched",
+        "entity":  "Bank statement",
+        "detail":  "Rent transfer matched to Oliver Bennett."
+    },
+    {
+        "id":  "audit-004",
+        "date":  "2026-10-18T11:45:00",
+        "userName":  "Helen Foster",
+        "action":  "Uploaded",
+        "entity":  "Document",
+        "detail":  "A gas safety certificate was added for Maple House."
+    }
+]

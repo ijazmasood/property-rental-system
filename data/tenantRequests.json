@@ -1,0 +1,22 @@
+[
+    {
+        "id":  "req-001",
+        "name":  "Charlotte Evans",
+        "email":  "charlotte.evans@example.co.uk",
+        "phone":  "07700 900201",
+        "propertyId":  "p2",
+        "message":  "Interested in a viewing and can provide references from my current landlord.",
+        "requestedOn":  "2026-10-18",
+        "status":  "pending"
+    },
+    {
+        "id":  "req-002",
+        "name":  "Ethan Roberts",
+        "email":  "ethan.roberts@example.co.uk",
+        "phone":  "07700 900202",
+        "propertyId":  "p5",
+        "message":  "Moving to Nottingham for work in November; references available on request.",
+        "requestedOn":  "2026-10-20",
+        "status":  "pending"
+    }
+]

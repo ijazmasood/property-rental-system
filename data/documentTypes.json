@@ -1,0 +1,50 @@
+[
+    {
+        "id":  "gas-safety",
+        "name":  "Gas Safety Certificate",
+        "renewalMonths":  12,
+        "required":  true
+    },
+    {
+        "id":  "epc",
+        "name":  "EPC",
+        "renewalMonths":  120,
+        "required":  true
+    },
+    {
+        "id":  "eicr",
+        "name":  "EICR",
+        "renewalMonths":  60,
+        "required":  true
+    },
+    {
+        "id":  "deposit-protection",
+        "name":  "Deposit Protection",
+        "renewalMonths":  12,
+        "required":  true
+    },
+    {
+        "id":  "right-to-rent",
+        "name":  "Right to Rent",
+        "renewalMonths":  12,
+        "required":  true
+    },
+    {
+        "id":  "insurance",
+        "name":  "Landlord Insurance",
+        "renewalMonths":  12,
+        "required":  true
+    },
+    {
+        "id":  "inspection",
+        "name":  "Six-month Inspection",
+        "renewalMonths":  6,
+        "required":  false
+    },
+    {
+        "id":  "tenancy-agreement",
+        "name":  "Tenancy Agreement",
+        "renewalMonths":  12,
+        "required":  true
+    }
+]

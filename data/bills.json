@@ -1,0 +1,134 @@
+[
+    {
+        "id":  "bill-001",
+        "propertyId":  "p1",
+        "type":  "Gas",
+        "supplier":  "Bristol Energy",
+        "amount":  86.4,
+        "dueDate":  "2026-10-12",
+        "paidBy":  "landlord",
+        "status":  "overdue",
+        "accountRef":  "AC-P1-001"
+    },
+    {
+        "id":  "bill-002",
+        "propertyId":  "p2",
+        "type":  "Electric",
+        "supplier":  "Octopus Energy",
+        "amount":  64.18,
+        "dueDate":  "2026-10-25",
+        "paidBy":  "landlord",
+        "status":  "unpaid",
+        "accountRef":  "AC-P2-002"
+    },
+    {
+        "id":  "bill-003",
+        "propertyId":  "p3",
+        "type":  "Water",
+        "supplier":  "Yorkshire Water",
+        "amount":  38.5,
+        "dueDate":  "2026-09-30",
+        "paidBy":  "landlord",
+        "status":  "paid",
+        "accountRef":  "AC-P3-003"
+    },
+    {
+        "id":  "bill-004",
+        "propertyId":  "p4",
+        "type":  "Internet",
+        "supplier":  "Hyperoptic",
+        "amount":  29,
+        "dueDate":  "2026-10-05",
+        "paidBy":  "landlord",
+        "status":  "paid",
+        "accountRef":  "AC-P4-004"
+    },
+    {
+        "id":  "bill-005",
+        "propertyId":  "p5",
+        "type":  "Council Tax",
+        "supplier":  "Nottingham City Council",
+        "amount":  142,
+        "dueDate":  "2026-10-01",
+        "paidBy":  "landlord",
+        "status":  "overdue",
+        "accountRef":  "AC-P5-005"
+    },
+    {
+        "id":  "bill-006",
+        "propertyId":  "p6",
+        "type":  "Gas",
+        "supplier":  "British Gas",
+        "amount":  91.25,
+        "dueDate":  "2026-09-18",
+        "paidBy":  "landlord",
+        "status":  "paid",
+        "accountRef":  "AC-P6-006"
+    },
+    {
+        "id":  "bill-007",
+        "propertyId":  "p7",
+        "type":  "Electric",
+        "supplier":  "ScottishPower",
+        "amount":  57.9,
+        "dueDate":  "2026-10-10",
+        "paidBy":  "tenant",
+        "status":  "paid",
+        "accountRef":  "AC-P7-007"
+    },
+    {
+        "id":  "bill-008",
+        "propertyId":  "p8",
+        "type":  "Water",
+        "supplier":  "Dwr Cymru",
+        "amount":  31.7,
+        "dueDate":  "2026-10-15",
+        "paidBy":  "landlord",
+        "status":  "unpaid",
+        "accountRef":  "AC-P8-008"
+    },
+    {
+        "id":  "bill-009",
+        "propertyId":  "p1",
+        "type":  "Internet",
+        "supplier":  "Virgin Media",
+        "amount":  34,
+        "dueDate":  "2026-09-14",
+        "paidBy":  "tenant",
+        "status":  "paid",
+        "accountRef":  "AC-P1-009"
+    },
+    {
+        "id":  "bill-010",
+        "propertyId":  "p2",
+        "type":  "Water",
+        "supplier":  "United Utilities",
+        "amount":  42.15,
+        "dueDate":  "2026-08-28",
+        "paidBy":  "landlord",
+        "status":  "paid",
+        "accountRef":  "AC-P2-010"
+    },
+    {
+        "id":  "bill-011",
+        "propertyId":  "p5",
+        "type":  "Gas",
+        "supplier":  "Nottingham Heating Ltd",
+        "amount":  185,
+        "dueDate":  "2026-10-08",
+        "paidBy":  "landlord",
+        "status":  "paid",
+        "accountRef":  "AC-P5-011"
+    },
+    {
+        "id":  "bill-012",
+        "propertyId":  "p6",
+        "type":  "Water",
+        "supplier":  "Southern Water",
+        "amount":  46.8,
+        "dueDate":  "2026-09-01",
+        "paidBy":  "landlord",
+        "status":  "paid",
+        "accountRef":  "AC-P6-012"
+    }
+]
